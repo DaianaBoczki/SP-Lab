@@ -16,15 +16,6 @@ public class Book {
         this.table = new ArrayList<String>();
     }
 
-    public String toString() {
-        return "Book{" +
-                "title='" + title + '\'' +
-                ", paragraph=" + paragraph +
-                ", image=" + image +
-                ", table=" + table +
-                '}';
-    }
-
     public void print() {
         System.out.println( "Book{" +
                 "title='" + title + '\'' +
