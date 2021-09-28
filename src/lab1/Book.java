@@ -17,12 +17,19 @@ public class Book {
     }
 
     public void print() {
-        System.out.println( "Book{" +
-                "title='" + title + '\'' +
-                ", paragraph=" + paragraph +
-                ", image=" + image +
-                ", table=" + table +
-                '}');
+        System.out.println("title: " + title);
+        System.out.print("paragraphs: ");
+        for(String p: paragraph){
+            System.out.print(p + " ");
+        }
+        System.out.print("\nimages: ");
+        for(String i: image){
+            System.out.print(i + " ");
+        }
+        System.out.print("\ntables: ");
+        for(String t: table){
+            System.out.print(t + " ");
+        }
     }
 
     public void createNewParagraph(String paragraph){
