@@ -36,4 +36,9 @@ public class Paragraph implements Element{
     public Element get(int i) {
         return content.get(i);
     }
+
+    @Override
+    public Element clone() {
+        return new Paragraph(this.text);
+    }
 }

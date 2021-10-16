@@ -37,4 +37,8 @@ public class Table implements Element{
     public Element get(int i) {
         return content.get(i);
     }
+
+    @Override
+    public Element clone() {
+        return new Table(this.title);    }
 }

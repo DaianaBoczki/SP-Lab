@@ -36,4 +36,8 @@ public class Image implements  Element{
     public Element get(int i) {
         return content.get(i);
     }
+
+    public Element clone(){
+        return new Image(this.imageName);
+    }
 }
