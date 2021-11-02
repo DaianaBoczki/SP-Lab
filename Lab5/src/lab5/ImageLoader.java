@@ -1,2 +1,5 @@
-package lab5;public interface ImageLoader {
+package lab5;
+
+public interface ImageLoader {
+    String load(String s);
 }

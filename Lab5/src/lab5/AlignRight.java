@@ -1,9 +1,7 @@
 package lab5;
 
-import javax.naming.Context;
-
 public class AlignRight implements AlignStrategy {
-    public void render(Paragraph p, Context c) {
-
+    public void render(Paragraph p) {
+        System.out.println("+++++" + p.text);
     }
 }
