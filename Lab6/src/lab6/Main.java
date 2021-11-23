@@ -1,6 +1,7 @@
 package lab6;
 
 import lab6.models.*;
+import lab6.services.BookSaveVisitor;
 import lab6.services.BookStatistics;
 
 public class Main {
@@ -21,5 +22,7 @@ public class Main {
         BookStatistics stats = new BookStatistics();
         cap1.accept(stats);
         stats.printStatistics();
+        BookSaveVisitor save = new BookSaveVisitor();
+        save.visitSection(cap1);
     }
 }
