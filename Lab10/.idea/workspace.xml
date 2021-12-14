@@ -5,12 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9905469f-ed72-4664-8392-e737d8ddcd1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/uvt/MySpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/uvt/controllers/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/uvt/difexamples/ClientComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/uvt/difexamples/SingletonComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/uvt/difexamples/TransientComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/SpApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/ImageProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Paragraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Section.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/TableOfContents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Visitee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/classes/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/controllers/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/repositories/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/repositories/ElementRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/AlignCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/AlignLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/AlignRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/AlignStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/BMPImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/BookSaveVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/BookStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/ImageLoaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/JPGImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/JsonVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/com/uvt/sp/services/RenderContentVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/test/java/com/uvt/sp/SpApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

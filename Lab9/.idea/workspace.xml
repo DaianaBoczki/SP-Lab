@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="299412d0-0ec9-426b-ba18-64264ae37245" name="Changes" comment="" />
+    <list default="true" id="299412d0-0ec9-426b-ba18-64264ae37245" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/controllers/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab6" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">

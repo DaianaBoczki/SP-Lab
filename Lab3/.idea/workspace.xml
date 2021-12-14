@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aca1e924-49e0-4493-9376-1e7205366b77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/lab4/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/lab4/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/lab4/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/lab4/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/lab4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/lab4/Paragraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/lab4/Section.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/lab4/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/sp/src/main/java/controllers/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
